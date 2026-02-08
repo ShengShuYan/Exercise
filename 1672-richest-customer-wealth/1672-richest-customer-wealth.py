@@ -4,7 +4,7 @@ class Solution(object):
         :type accounts: List[List[int]]
         :rtype: int
         """
-        wealth = [sum(c) for c in accounts]
+        wealth = [sum(accounts[i]) for i in range(len(accounts))]
         return max(wealth)
 
 
