@@ -5,8 +5,8 @@ class Solution(object):
         :rtype: int
         """
         wealthy = 0
-        for i in range(len(accounts)):
-            current = sum(accounts[i])
+        for c in accounts:
+            current = sum(c)
             wealthy = max(wealthy, current)
         return wealthy
 
