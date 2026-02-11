@@ -6,7 +6,7 @@ class Solution:
             if c == 5:
                 cur_5 += 1
             elif c == 10:
-                if cur_5 < 1:
+                if cur_5 == 0:
                     return False
                 cur_5 -= 1
                 cur_10 += 1
