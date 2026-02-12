@@ -30,15 +30,31 @@ class Solution:
             'y': 24,
             'z': 25
         }
-        for i in range(n):
-            l = [0] * 26
-            for j in range(i,n):
-                l[smap[s[j]]] += 1
-                num = set(l)
-                if (len(num) == 2 and 0 in num) or (len(num) == 1 and not(0 in num)):
+
+        l = [0] * 26
+
+        for c in s:
+            l[smap[c]] += 1
+
+        for i in range(n):           
+            if i != 0:
+                l[smap[s[i-1]]] -= 1
+            num = set(l)
+            if (len(num) == 2 and 0 in num) or (len(num) == 1 and not(0 in num)):
+                    cur = n - i
+                    L = max(L, cur)
+                    break
+            l1 = l[:]    
+            for j in range(n-1, i-1, -1):
+                
+                if j != n-1:
+                    l1[smap[s[j+1]]] -= 1   
+                num = set(l1)
+                if (len(num) == 2 and 0 in num) or (len(num) == 1 and 0 not in num):
                     cur = j - i + 1
                     L = max(L, cur)
-
+                    break
+                          
         return L
 
 
