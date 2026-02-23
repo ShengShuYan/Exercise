@@ -4,7 +4,6 @@ class Solution:
         len_s = len(s)
         if len_s <  k:
             return False
-        
 
         sub_sub = deque()
         
@@ -18,11 +17,7 @@ class Solution:
             sub_sub.append(s[k+j])
             subset.add(''.join(sub_sub))
 
-        print(subset)
+        if len(subset) == 2 ** k:
+            return True
 
-        for i in range(n):
-            sub = bin(i)[2:].zfill(k)
-            if sub not in subset:
-                return False
-
-        return True       
+        return False     
