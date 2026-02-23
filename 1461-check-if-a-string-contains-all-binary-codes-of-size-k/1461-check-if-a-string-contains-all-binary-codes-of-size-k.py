@@ -4,13 +4,25 @@ class Solution:
         len_s = len(s)
         if len_s <  k:
             return False
-        subset = set()
-        for j in range(len_s - k + 1):
-            subset.add(s[j: j+k])
+        
+
+        sub_sub = deque()
+        
+        for z in range(k):
+            sub_sub.append(s[z])
+
+        subset = {''.join(sub_sub)}
+
+        for j in range(len_s - k):
+            sub_sub.popleft()
+            sub_sub.append(s[k+j])
+            subset.add(''.join(sub_sub))
+
+        print(subset)
 
         for i in range(n):
             sub = bin(i)[2:].zfill(k)
             if sub not in subset:
                 return False
 
-        return True
+        return True       
