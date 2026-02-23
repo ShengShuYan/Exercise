@@ -19,5 +19,5 @@ class Solution:
 
         if len(subset) == 2 ** k:
             return True
-
-        return False     
+        else: 
+            return False     
