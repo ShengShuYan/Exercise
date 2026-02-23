@@ -5,19 +5,21 @@ class Solution:
         if len_s <  k:
             return False
 
-        sub_sub = deque()
+        subset = set()
+        mask = (1 << k) - 1
+
+        cur = 0
         
         for z in range(k):
-            sub_sub.append(s[z])
+            cur = (cur << 1) | (ord(s[z]) - 48)
 
-        subset = {''.join(sub_sub)}
+        subset.add(cur)
 
-        for j in range(len_s - k):
-            sub_sub.popleft()
-            sub_sub.append(s[k+j])
-            subset.add(''.join(sub_sub))
+        for j in range(k, len_s):
+            cur = ((cur << 1) & mask) | (ord(s[j]) - 48)
+            subset.add(cur)
 
-        if len(subset) == 2 ** k:
+        if len(subset) == n:
             return True
-        else: 
-            return False     
+            
+        return False     
