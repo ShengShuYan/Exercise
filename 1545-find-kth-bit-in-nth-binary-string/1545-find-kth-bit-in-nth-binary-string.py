@@ -10,8 +10,8 @@ class Solution:
         if k < mid:
             return self.findKthBit(n-1, k)
 
-        mir = 1 << n - k
-        ans = self.findKthBit(n-1, mirror)
+        mir = (1 << n) - k
+        ans = self.findKthBit(n-1, mir)
         return '1' if ans == '0' else '0' 
         
         
