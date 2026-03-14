@@ -2,14 +2,11 @@ from collections import Counter
 
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
-        d1 = Counter(word1)
-        d2 = Counter(word2)
+        if len(word1) != len(word2):
+            return False
 
-        counter1 = sorted(d1.values())
-        counter2 = sorted(d2.values())
+        d1, d2 = Counter(word1), Counter(word2)
 
-        item1 = sorted(d1.keys())
-        item2 = sorted(d2.keys())
-        return counter1 == counter2 and item1 == item2
+        return d1.keys() == d2.keys() and Counter(d1.values()) == Counter(d2.values())
 
         
