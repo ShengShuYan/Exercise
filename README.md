@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShengShuYan/Exercise/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +28,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShengShuYan/Exercise/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 <!---LeetCode Topics End-->
