@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShengShuYan/Exercise/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/ShengShuYan/Exercise/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ShengShuYan/Exercise/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShengShuYan/Exercise/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/ShengShuYan/Exercise/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ShengShuYan/Exercise/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShengShuYan/Exercise/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/ShengShuYan/Exercise/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShengShuYan/Exercise/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShengShuYan/Exercise/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
