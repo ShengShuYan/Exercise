@@ -5,12 +5,13 @@ class Solution:
         l2 = len(nums2)
         l = min(l1, l2)
         dis = 0
+        nums2 = [-x for x in nums2]
         for i in range(l):
-            v1 = nums1[i]
+            v1 = -nums1[i]
             v2 = nums2[i]
-            if v1>v2:
+            if v1<v2:
                 continue
-            j = bisect_right(nums2, -v1, key = lambda x: -x) - 1
+            j = bisect_right(nums2, v1) - 1
             dis = max(j - i, dis)
             # j = l2-1
             # while j > i + dis:
