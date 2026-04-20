@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShengShuYan/Exercise/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShengShuYan/Exercise/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ShengShuYan/Exercise/tree/main/1929-concatenation-of-array/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ShengShuYan/Exercise/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/ShengShuYan/Exercise/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShengShuYan/Exercise/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShengShuYan/Exercise/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShengShuYan/Exercise/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShengShuYan/Exercise/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ShengShuYan/Exercise/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
