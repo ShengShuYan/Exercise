@@ -1,18 +1,16 @@
-import heapq
+
 class Solution:
     def maxDistance(self, colors: List[int]) -> int:
-        cmp_i = {}
-        cmp_f = {}
-        for i in range(len(colors)):
-            v = colors[i]
-            if v not in cmp_i:
-                cmp_i[v] = i
-            cmp_f[v] = i
-        ini2 = heapq.nsmallest(2, cmp_i.items(), key=lambda x: x[1])
-        fin2 = heapq.nsmallest(2, cmp_f.items(), key=lambda x: -x[1])
-        if ini2[0][0] != fin2[0][0]:
-            return fin2[0][1] - ini2[0][1]
-        else:
-            return max(fin2[0][1]-ini2[1][1], fin2[1][1]-ini2[0][1])
-            
-        
+        L = len(colors)
+        vi = colors[0]
+        vf = colors[-1]
+        if vi != vf:
+            return L - 1
+        i = 1
+        while i < L and colors[i] == vf:
+            i += 1
+        f = L - 2
+        a1 = L - 1 - i
+        while f > -1 and colors[f] == vi:
+            f-=1
+        return max(a1, f)
