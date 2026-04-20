@@ -10,7 +10,6 @@ class Solution:
         while i < L and colors[i] == vf:
             i += 1
         f = L - 2
-        a1 = L - 1 - i
         while f > -1 and colors[f] == vi:
             f-=1
-        return max(a1, f)
+        return max(L - 1 - i, f)
