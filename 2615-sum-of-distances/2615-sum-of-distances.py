@@ -7,9 +7,9 @@ class Solution:
         arr = [0] * len(nums)
         for v in mapd.values():
             start = v[0]
-            arr[start] = sum(abs(start - j) for j in v)
-            sv = arr[start]
             L = len(v)
+            arr[start] = sum(v) - start * L
+            sv = arr[start]
             for ind in range(1, len(v)):
                 arr[v[ind]] = sv + (2*ind-L) * (v[ind] - v[ind-1])
                 sv = arr[v[ind]]
