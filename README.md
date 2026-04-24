@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ShengShuYan/Exercise/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShengShuYan/Exercise/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/ShengShuYan/Exercise/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/ShengShuYan/Exercise/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
