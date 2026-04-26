@@ -1,9 +1,9 @@
 import heapq
 class Solution:
-    def longestConsecutive(self, nums: List[int]) -> int:
-        if not nums:
+    def longestConsecutive(self, num: List[int]) -> int:
+        if not num:
             return 0
-        nums = set(nums)
+        nums = set(num)
         L = 1
         for i in nums:
             if i - 1 not in nums:
