@@ -3,21 +3,12 @@ class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if not nums:
             return 0
-        heapq.heapify(nums)
-        cur = heapq.heappop(nums)
+        nums = set(nums)
         L = 1
-        l = 1
-        while len(nums) > 0:
-            n = heapq.heappop(nums)
-            if n - cur == 1:
-                l += 1
-                L = max(L, l)
-            elif n > cur:
+        for i in nums:
+            if i - 1 not in nums:
                 l = 1
-            cur = n
+                while l + i in nums:
+                    l += 1
+                L = max(L, l)
         return L
-            
-            
-
-
-        
