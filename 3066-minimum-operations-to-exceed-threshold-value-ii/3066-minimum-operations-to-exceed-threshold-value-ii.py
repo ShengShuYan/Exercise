@@ -7,7 +7,7 @@ class Solution:
         while len(nums) > 1 and nums[0] < k:
             x = heapq.heappop(nums)
             y = heapq.heappop(nums)
-            n = min(x, y) * 2 +max(x,y)
+            n = x * 2 + y
             if n < k:
                 heapq.heappush(nums, n)
             count += 1
