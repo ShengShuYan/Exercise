@@ -17,11 +17,11 @@ class Solution:
                 return root.right
             if not root.right:
                 return root.left
-            suc = root.right
-            while suc.left:
-                suc = suc.left
+            suc = root.left
+            while suc.right:
+                suc = suc.right
             root.val = suc.val
-            root.right = self.deleteNode(root.right, suc.val)
+            root.left = self.deleteNode(root.left, suc.val)
 
         return root
 
