@@ -4,7 +4,13 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
+    def successor(self, root):
+        suc = root.right
+        while suc.left:
+            suc = suc.left
+        return suc.val
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
         if not root:
             return None
@@ -17,11 +23,9 @@ class Solution:
                 return root.right
             if not root.right:
                 return root.left
-            suc = root.left
-            while suc.right:
-                suc = suc.right
-            root.val = suc.val
-            root.left = self.deleteNode(root.left, suc.val)
+            
+            root.val = self.successor(root)
+            root.right = self.deleteNode(root.right, root.val)
 
         return root
 
