@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ShengShuYan/Exercise/tree/main/0133-clone-graph/) | Medium |
+| [1615-maximal-network-rank](https://github.com/ShengShuYan/Exercise/tree/main/1615-maximal-network-rank/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
