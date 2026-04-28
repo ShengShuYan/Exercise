@@ -8,8 +8,7 @@ class Solution:
 
         visited = {0}
         dfs(0, visited, rooms)
-        if len(visited) != len(rooms):
-            return False
-        return True
+
+        return len(visited) == len(rooms)
 
         
