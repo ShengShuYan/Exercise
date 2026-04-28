@@ -5,17 +5,15 @@ class Solution:
             return max(vals)
         adj = defaultdict(list)
         for a, b in edges:
-            adj[a].append(vals[b])
-            adj[b].append(vals[a])
+            if vals[b] > 0:
+                adj[a].append(vals[b])
+            if vals[a] > 0:
+                adj[b].append(vals[a])
 
         ans = -float('inf')
         for n, c in adj.items():
             c.sort(reverse = True)
             cur = vals[n]
-            i = 0
-            while i < min(k,len(c)) and c[i] > 0:
-                cur += c[i]
-                i += 1
-            ans = max(ans, cur)
+            ans = max(ans, cur+sum(c[:min(k,len(c))]))
         return max(ans, max(vals))
         
