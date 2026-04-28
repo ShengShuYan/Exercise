@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/ShengShuYan/Exercise/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/ShengShuYan/Exercise/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShengShuYan/Exercise/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/ShengShuYan/Exercise/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2615-sum-of-distances](https://github.com/ShengShuYan/Exercise/tree/main/2615-sum-of-distances/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ShengShuYan/Exercise/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShengShuYan/Exercise/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShengShuYan/Exercise/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShengShuYan/Exercise/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShengShuYan/Exercise/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/ShengShuYan/Exercise/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShengShuYan/Exercise/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShengShuYan/Exercise/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ShengShuYan/Exercise/tree/main/1929-concatenation-of-array/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/ShengShuYan/Exercise/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ShengShuYan/Exercise/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShengShuYan/Exercise/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShengShuYan/Exercise/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ShengShuYan/Exercise/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/ShengShuYan/Exercise/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShengShuYan/Exercise/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShengShuYan/Exercise/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShengShuYan/Exercise/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/ShengShuYan/Exercise/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
