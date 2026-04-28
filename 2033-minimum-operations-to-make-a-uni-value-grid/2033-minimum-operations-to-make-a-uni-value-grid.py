@@ -13,7 +13,11 @@ class Solution:
 
         mid = nums[len(nums) // 2]
 
-        return sum([abs(item - mid)//x for item in nums])
+        ans = 0
 
+        for item in nums:
+            ans += abs(item - mid) // x
+
+        return ans
 
         
