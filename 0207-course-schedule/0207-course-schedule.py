@@ -1,33 +1,29 @@
+from collections import deque
+
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-
+        # 1. 建立邻接表和入度表
         indegree = [0] * numCourses
         adj = [[] for _ in range(numCourses)]
-        for a, b in prerequisites:
-            indegree[a] += 1
-            adj[b].append(a)
-           
-            # 2. 把所有入度=0的的节点放进队列
-        from collections import deque
-        queue = deque()
-        for v in range(numCourses):
-            if indegree[v] == 0:
-                queue.append(v)
-            
-            # 3. 记录处理了多少个节点
-        count = 0
-            
-            # 4. 开始处理
-        while queue:
-            v = queue.popleft()    # 出一个入度0的的节点
-            count += 1                 # 计数+1
-                
-                # 5. 删除 v 出发的所有边 = 邻居入度-1
-            for neighbor in adj[v]:
-                indegree[neighbor] -= 1
-                if indegree[neighbor] == 0:
-                    queue.append(neighbor)  # 新的入度0，入队
-            
-        return count == numCourses      
-
         
+        for cur, pre in prerequisites:
+            adj[pre].append(cur)
+            indegree[cur] += 1
+            
+        # 2. 将所有入度为 0 的节点（没有先修课的课）入队
+        queue = deque([i for i in range(numCourses) if indegree[i] == 0])
+        
+        visited_count = 0
+        while queue:
+            pre = queue.popleft()
+            visited_count += 1
+            
+            # 3. 遍历当前课的所有后续课
+            for cur in adj[pre]:
+                indegree[cur] -= 1
+                # 如果后续课的入度减为 0，说明它的先修课都上完了
+                if indegree[cur] == 0:
+                    queue.append(cur)
+        
+        # 4. 如果上过的课等于总数，说明没有环
+        return visited_count == numCourses
