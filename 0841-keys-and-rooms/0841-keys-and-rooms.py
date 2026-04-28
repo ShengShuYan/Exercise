@@ -1,14 +1,13 @@
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
-        def dfs(u, visited, graph):
-            visited.add(u)
-            for v in graph[u]:
-                if v not in visited:
-                    dfs(v, visited, graph)
-
         visited = {0}
-        dfs(0, visited, rooms)
-
-        return len(visited) == len(rooms)
-
+        stack = [0] # Use a list as a stack for Iterative DFS
         
+        while stack:
+            u = stack.pop() # O(1) operation
+            for v in rooms[u]:
+                if v not in visited:
+                    visited.add(v)
+                    stack.append(v)
+        
+        return len(visited) == len(rooms)
