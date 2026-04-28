@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/ShengShuYan/Exercise/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShengShuYan/Exercise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ShengShuYan/Exercise/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [0706-design-hashmap](https://github.com/ShengShuYan/Exercise/tree/main/0706-design-hashmap/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/ShengShuYan/Exercise/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1436-destination-city](https://github.com/ShengShuYan/Exercise/tree/main/1436-destination-city/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/ShengShuYan/Exercise/tree/main/0049-group-anagrams/) | Medium |
+| [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShengShuYan/Exercise/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1436-destination-city](https://github.com/ShengShuYan/Exercise/tree/main/1436-destination-city/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShengShuYan/Exercise/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ShengShuYan/Exercise/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0133-clone-graph](https://github.com/ShengShuYan/Exercise/tree/main/0133-clone-graph/) | Medium |
+| [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShengShuYan/Exercise/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0841-keys-and-rooms](https://github.com/ShengShuYan/Exercise/tree/main/0841-keys-and-rooms/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShengShuYan/Exercise/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -186,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShengShuYan/Exercise/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShengShuYan/Exercise/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ShengShuYan/Exercise/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Trie
@@ -200,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ShengShuYan/Exercise/tree/main/0133-clone-graph/) | Medium |
+| [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShengShuYan/Exercise/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0841-keys-and-rooms](https://github.com/ShengShuYan/Exercise/tree/main/0841-keys-and-rooms/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShengShuYan/Exercise/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -209,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ShengShuYan/Exercise/tree/main/0133-clone-graph/) | Medium |
+| [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [0841-keys-and-rooms](https://github.com/ShengShuYan/Exercise/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShengShuYan/Exercise/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1615-maximal-network-rank](https://github.com/ShengShuYan/Exercise/tree/main/1615-maximal-network-rank/) | Medium |
@@ -225,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShengShuYan/Exercise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
