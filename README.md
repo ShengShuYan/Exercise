@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ShengShuYan/Exercise/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ShengShuYan/Exercise/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/ShengShuYan/Exercise/tree/main/0645-set-mismatch/) | Easy |
 | [0706-design-hashmap](https://github.com/ShengShuYan/Exercise/tree/main/0706-design-hashmap/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/ShengShuYan/Exercise/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShengShuYan/Exercise/tree/main/0994-rotting-oranges/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShengShuYan/Exercise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ShengShuYan/Exercise/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/ShengShuYan/Exercise/tree/main/0133-clone-graph/) | Medium |
+| [0645-set-mismatch](https://github.com/ShengShuYan/Exercise/tree/main/0645-set-mismatch/) | Easy |
 | [0706-design-hashmap](https://github.com/ShengShuYan/Exercise/tree/main/0706-design-hashmap/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/ShengShuYan/Exercise/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1436-destination-city](https://github.com/ShengShuYan/Exercise/tree/main/1436-destination-city/) | Easy |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/ShengShuYan/Exercise/tree/main/0049-group-anagrams/) | Medium |
+| [0645-set-mismatch](https://github.com/ShengShuYan/Exercise/tree/main/0645-set-mismatch/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShengShuYan/Exercise/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShengShuYan/Exercise/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -281,4 +284,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/ShengShuYan/Exercise/tree/main/0796-rotate-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/ShengShuYan/Exercise/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
