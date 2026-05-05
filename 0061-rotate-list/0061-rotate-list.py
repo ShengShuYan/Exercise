@@ -14,7 +14,8 @@ class Solution:
             cur = cur.next
         cur.next = head
 
-        for i in range((l-k)%l):
+
+        for i in range(l-k%l):
             cur = cur.next
 
         pos = cur.next
