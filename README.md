@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShengShuYan/Exercise/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShengShuYan/Exercise/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShengShuYan/Exercise/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/ShengShuYan/Exercise/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShengShuYan/Exercise/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShengShuYan/Exercise/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ShengShuYan/Exercise/tree/main/1929-concatenation-of-array/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShengShuYan/Exercise/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShengShuYan/Exercise/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShengShuYan/Exercise/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1861-rotating-the-box](https://github.com/ShengShuYan/Exercise/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShengShuYan/Exercise/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShengShuYan/Exercise/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShengShuYan/Exercise/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/ShengShuYan/Exercise/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShengShuYan/Exercise/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/ShengShuYan/Exercise/tree/main/1861-rotating-the-box/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
