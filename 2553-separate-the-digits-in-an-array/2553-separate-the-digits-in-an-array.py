@@ -2,15 +2,14 @@ from collections import deque
 
 class Solution:
     def separateDigits(self, nums: List[int]) -> List[int]:
-        queue = deque()
+        ans = []
+        for num in nums:
+            if num > 9:
+                for dig in str(num):
+                    ans.append(int(dig))
+            else:
+                ans.append(num)
 
-        for i in range(len(nums)-1, -1, -1):
-            val = nums[i]
-            while val > 0:
-                dig = val % 10
-                queue.appendleft(dig)
-                val = val//10
-        return list(queue)
-
+        return ans
 
         
