@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2596-check-knight-tour-configuration](https://github.com/ShengShuYan/Exercise/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2615-sum-of-distances](https://github.com/ShengShuYan/Exercise/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShengShuYan/Exercise/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/ShengShuYan/Exercise/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ShengShuYan/Exercise/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShengShuYan/Exercise/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShengShuYan/Exercise/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1436-destination-city](https://github.com/ShengShuYan/Exercise/tree/main/1436-destination-city/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2615-sum-of-distances](https://github.com/ShengShuYan/Exercise/tree/main/2615-sum-of-distances/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/ShengShuYan/Exercise/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/ShengShuYan/Exercise/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShengShuYan/Exercise/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ShengShuYan/Exercise/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShengShuYan/Exercise/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/ShengShuYan/Exercise/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/ShengShuYan/Exercise/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/ShengShuYan/Exercise/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShengShuYan/Exercise/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
