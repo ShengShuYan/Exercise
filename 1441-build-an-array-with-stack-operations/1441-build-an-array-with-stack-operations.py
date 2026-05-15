@@ -7,7 +7,8 @@ class Solution:
             if i in target:
                 out.append("Push")
             else:
-                out.extend(["Push", "Pop"])
+                out.append('Push')
+                out.append('Pop')
 
         return out
 
