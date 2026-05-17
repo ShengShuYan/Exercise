@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-snakes-and-ladders](https://github.com/ShengShuYan/Exercise/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShengShuYan/Exercise/tree/main/0994-rotting-oranges/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ShengShuYan/Exercise/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1306-jump-game-iii](https://github.com/ShengShuYan/Exercise/tree/main/1306-jump-game-iii/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShengShuYan/Exercise/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1436-destination-city](https://github.com/ShengShuYan/Exercise/tree/main/1436-destination-city/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShengShuYan/Exercise/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShengShuYan/Exercise/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0743-network-delay-time](https://github.com/ShengShuYan/Exercise/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/ShengShuYan/Exercise/tree/main/0841-keys-and-rooms/) | Medium |
+| [1306-jump-game-iii](https://github.com/ShengShuYan/Exercise/tree/main/1306-jump-game-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShengShuYan/Exercise/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShengShuYan/Exercise/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShengShuYan/Exercise/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/ShengShuYan/Exercise/tree/main/0841-keys-and-rooms/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/ShengShuYan/Exercise/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShengShuYan/Exercise/tree/main/0994-rotting-oranges/) | Medium |
+| [1306-jump-game-iii](https://github.com/ShengShuYan/Exercise/tree/main/1306-jump-game-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShengShuYan/Exercise/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShengShuYan/Exercise/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShengShuYan/Exercise/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
