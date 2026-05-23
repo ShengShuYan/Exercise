@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/ShengShuYan/Exercise/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShengShuYan/Exercise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ShengShuYan/Exercise/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShengShuYan/Exercise/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShengShuYan/Exercise/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShengShuYan/Exercise/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ShengShuYan/Exercise/tree/main/0048-rotate-image/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShengShuYan/Exercise/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1622-fancy-sequence](https://github.com/ShengShuYan/Exercise/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShengShuYan/Exercise/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShengShuYan/Exercise/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShengShuYan/Exercise/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShengShuYan/Exercise/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Database
 | Problem Name | Difficulty |
