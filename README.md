@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShengShuYan/Exercise/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ShengShuYan/Exercise/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShengShuYan/Exercise/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShengShuYan/Exercise/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShengShuYan/Exercise/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShengShuYan/Exercise/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShengShuYan/Exercise/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShengShuYan/Exercise/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/ShengShuYan/Exercise/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShengShuYan/Exercise/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ShengShuYan/Exercise/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
