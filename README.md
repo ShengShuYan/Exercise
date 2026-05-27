@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/ShengShuYan/Exercise/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ShengShuYan/Exercise/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0584-find-customer-referee](https://github.com/ShengShuYan/Exercise/tree/main/0584-find-customer-referee/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
