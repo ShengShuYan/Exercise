@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShengShuYan/Exercise/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ShengShuYan/Exercise/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShengShuYan/Exercise/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/ShengShuYan/Exercise/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShengShuYan/Exercise/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/ShengShuYan/Exercise/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShengShuYan/Exercise/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShengShuYan/Exercise/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ShengShuYan/Exercise/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShengShuYan/Exercise/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/ShengShuYan/Exercise/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShengShuYan/Exercise/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShengShuYan/Exercise/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Recursion
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ShengShuYan/Exercise/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShengShuYan/Exercise/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/ShengShuYan/Exercise/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
