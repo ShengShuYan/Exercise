@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ShengShuYan/Exercise/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShengShuYan/Exercise/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/ShengShuYan/Exercise/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/ShengShuYan/Exercise/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShengShuYan/Exercise/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/ShengShuYan/Exercise/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShengShuYan/Exercise/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/ShengShuYan/Exercise/tree/main/1622-fancy-sequence/) | Hard |
+| [3161-block-placement-queries](https://github.com/ShengShuYan/Exercise/tree/main/3161-block-placement-queries/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/ShengShuYan/Exercise/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShengShuYan/Exercise/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/ShengShuYan/Exercise/tree/main/2540-minimum-common-value/) | Easy |
+| [3161-block-placement-queries](https://github.com/ShengShuYan/Exercise/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShengShuYan/Exercise/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/ShengShuYan/Exercise/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Binary Tree
@@ -376,4 +379,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/ShengShuYan/Exercise/tree/main/1871-jump-game-vii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/ShengShuYan/Exercise/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
