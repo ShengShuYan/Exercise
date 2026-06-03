@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/ShengShuYan/Exercise/tree/main/0584-find-customer-referee/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ShengShuYan/Exercise/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/ShengShuYan/Exercise/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1280-students-and-examinations](https://github.com/ShengShuYan/Exercise/tree/main/1280-students-and-examinations/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ShengShuYan/Exercise/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
