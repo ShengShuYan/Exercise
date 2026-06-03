@@ -1,29 +1,8 @@
 class Solution:
     def earliestFinishTime(self, landStartTime: List[int], landDuration: List[int], waterStartTime: List[int], waterDuration: List[int]) -> int:
-        land = [(x, y, x+y) for x, y in zip(landStartTime, landDuration)]
-        water = [(x, y, x+y) for x, y in zip(waterStartTime, waterDuration)]
+        land_end = min(x + y for x, y in zip(landStartTime, landDuration))
+        water_end = min(x + y for x, y in zip(waterStartTime, waterDuration))
 
-        land.sort(key = lambda x: x[2])
-        water.sort(key = lambda x: x[2])
-
-        i = 0
-        ans = float('inf')
-        im = len(water)
-        le = land[0][2]
-        while i<im:
-            cur = max(le, water[i][0]) + water[i][1]
-            if ans > cur:
-                ans = cur
-            i +=  1
-        
-        j = 0
-        jm = len(land)
-        we = water[0][2]
-        while j<jm:
-            cur = max(we, land[j][0]) + land[j][1]
-            if ans > cur:
-                ans = cur
-            j +=  1
-
-        return ans
-        
+        ans1 = min(max(land_end, ws) + wd for ws, wd in zip(waterStartTime, waterDuration))
+        ans2 = min(max(water_end, ls) + ld for ls, ld in zip(landStartTime, landDuration))
+        return min(ans1,ans2)
