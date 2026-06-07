@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShengShuYan/Exercise/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/ShengShuYan/Exercise/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShengShuYan/Exercise/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ShengShuYan/Exercise/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ShengShuYan/Exercise/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/ShengShuYan/Exercise/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/ShengShuYan/Exercise/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShengShuYan/Exercise/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1436-destination-city](https://github.com/ShengShuYan/Exercise/tree/main/1436-destination-city/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ShengShuYan/Exercise/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/ShengShuYan/Exercise/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/ShengShuYan/Exercise/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShengShuYan/Exercise/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShengShuYan/Exercise/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShengShuYan/Exercise/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShengShuYan/Exercise/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ShengShuYan/Exercise/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShengShuYan/Exercise/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShengShuYan/Exercise/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShengShuYan/Exercise/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ShengShuYan/Exercise/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
