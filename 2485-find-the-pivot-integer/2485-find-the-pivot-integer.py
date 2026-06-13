@@ -1,4 +1,3 @@
-from math import sqrt
 class Solution:
     def pivotInteger(self, n: int) -> int:
         ans = sqrt((n**2+n)/2)
