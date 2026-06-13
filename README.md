@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/ShengShuYan/Exercise/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShengShuYan/Exercise/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShengShuYan/Exercise/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/ShengShuYan/Exercise/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShengShuYan/Exercise/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ShengShuYan/Exercise/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShengShuYan/Exercise/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/ShengShuYan/Exercise/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShengShuYan/Exercise/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/ShengShuYan/Exercise/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ShengShuYan/Exercise/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/ShengShuYan/Exercise/tree/main/2615-sum-of-distances/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShengShuYan/Exercise/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
