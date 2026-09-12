@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1436-destination-city](https://github.com/ShengShuYan/Exercise/tree/main/1436-destination-city/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShengShuYan/Exercise/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/ShengShuYan/Exercise/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1871-jump-game-vii](https://github.com/ShengShuYan/Exercise/tree/main/1871-jump-game-vii/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ShengShuYan/Exercise/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShengShuYan/Exercise/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/ShengShuYan/Exercise/tree/main/0061-rotate-list/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/ShengShuYan/Exercise/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShengShuYan/Exercise/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/ShengShuYan/Exercise/tree/main/1861-rotating-the-box/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShengShuYan/Exercise/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
