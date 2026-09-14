@@ -9,7 +9,7 @@ class Solution:
         l2 = len(str2)
         common = gcd(l1, l2)
         
-        if str1 * (l2//common) != str2 * (l1//common):
+        if str1 + str2 != str2 + str1:
             return ''
         return str1[:common]
         
