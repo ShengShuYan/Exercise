@@ -10,16 +10,17 @@ class Solution:
         
         for end in range(l):
             v = arr[end]
+            cur_sum += v
             
-            while cur_sum + v > target:
+            while cur_sum > target:
                 cur_sum -= arr[start]
                 start += 1
             
-            cur_sum += v
-            
             if cur_sum == target:
                 cur_l = end - start + 1
-                ans = min(ans, dp[start-1] + cur_l)
+
+                if start > 0:
+                    ans = min(ans, dp[start-1] + cur_l)
                 min_l = min(min_l, cur_l)
             
             dp[end] = min_l
