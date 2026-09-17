@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1436-destination-city](https://github.com/ShengShuYan/Exercise/tree/main/1436-destination-city/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShengShuYan/Exercise/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/ShengShuYan/Exercise/tree/main/1470-shuffle-the-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShengShuYan/Exercise/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ShengShuYan/Exercise/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShengShuYan/Exercise/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShengShuYan/Exercise/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/ShengShuYan/Exercise/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShengShuYan/Exercise/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1436-destination-city](https://github.com/ShengShuYan/Exercise/tree/main/1436-destination-city/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShengShuYan/Exercise/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShengShuYan/Exercise/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/ShengShuYan/Exercise/tree/main/2540-minimum-common-value/) | Easy |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/ShengShuYan/Exercise/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShengShuYan/Exercise/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShengShuYan/Exercise/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShengShuYan/Exercise/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShengShuYan/Exercise/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/ShengShuYan/Exercise/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/ShengShuYan/Exercise/tree/main/3161-block-placement-queries/) | Hard |
@@ -292,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/ShengShuYan/Exercise/tree/main/1340-jump-game-v/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShengShuYan/Exercise/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1871-jump-game-vii](https://github.com/ShengShuYan/Exercise/tree/main/1871-jump-game-vii/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/ShengShuYan/Exercise/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShengShuYan/Exercise/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -439,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShengShuYan/Exercise/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1871-jump-game-vii](https://github.com/ShengShuYan/Exercise/tree/main/1871-jump-game-vii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
