@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShengShuYan/Exercise/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ShengShuYan/Exercise/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0605-can-place-flowers](https://github.com/ShengShuYan/Exercise/tree/main/0605-can-place-flowers/) | Easy |
 | [0645-set-mismatch](https://github.com/ShengShuYan/Exercise/tree/main/0645-set-mismatch/) | Easy |
 | [0706-design-hashmap](https://github.com/ShengShuYan/Exercise/tree/main/0706-design-hashmap/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/ShengShuYan/Exercise/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0605-can-place-flowers](https://github.com/ShengShuYan/Exercise/tree/main/0605-can-place-flowers/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShengShuYan/Exercise/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ShengShuYan/Exercise/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShengShuYan/Exercise/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
