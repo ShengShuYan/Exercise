@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShengShuYan/Exercise/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShengShuYan/Exercise/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShengShuYan/Exercise/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0169-majority-element](https://github.com/ShengShuYan/Exercise/tree/main/0169-majority-element/) | Easy |
 | [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShengShuYan/Exercise/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ShengShuYan/Exercise/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShengShuYan/Exercise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ShengShuYan/Exercise/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/ShengShuYan/Exercise/tree/main/0133-clone-graph/) | Medium |
+| [0169-majority-element](https://github.com/ShengShuYan/Exercise/tree/main/0169-majority-element/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShengShuYan/Exercise/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/ShengShuYan/Exercise/tree/main/0645-set-mismatch/) | Easy |
 | [0706-design-hashmap](https://github.com/ShengShuYan/Exercise/tree/main/0706-design-hashmap/) | Easy |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/ShengShuYan/Exercise/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShengShuYan/Exercise/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/ShengShuYan/Exercise/tree/main/0169-majority-element/) | Easy |
 | [0645-set-mismatch](https://github.com/ShengShuYan/Exercise/tree/main/0645-set-mismatch/) | Easy |
 | [1340-jump-game-v](https://github.com/ShengShuYan/Exercise/tree/main/1340-jump-game-v/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShengShuYan/Exercise/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ShengShuYan/Exercise/tree/main/0169-majority-element/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShengShuYan/Exercise/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/ShengShuYan/Exercise/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Backtracking
@@ -410,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShengShuYan/Exercise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0169-majority-element](https://github.com/ShengShuYan/Exercise/tree/main/0169-majority-element/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,4 +481,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShengShuYan/Exercise/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ShengShuYan/Exercise/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
