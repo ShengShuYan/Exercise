@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/ShengShuYan/Exercise/tree/main/0706-design-hashmap/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/ShengShuYan/Exercise/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShengShuYan/Exercise/tree/main/0994-rotting-oranges/) | Medium |
+| [1146-snapshot-array](https://github.com/ShengShuYan/Exercise/tree/main/1146-snapshot-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ShengShuYan/Exercise/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1306-jump-game-iii](https://github.com/ShengShuYan/Exercise/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/ShengShuYan/Exercise/tree/main/1340-jump-game-v/) | Hard |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShengShuYan/Exercise/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/ShengShuYan/Exercise/tree/main/0645-set-mismatch/) | Easy |
 | [0706-design-hashmap](https://github.com/ShengShuYan/Exercise/tree/main/0706-design-hashmap/) | Easy |
+| [1146-snapshot-array](https://github.com/ShengShuYan/Exercise/tree/main/1146-snapshot-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ShengShuYan/Exercise/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShengShuYan/Exercise/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1436-destination-city](https://github.com/ShengShuYan/Exercise/tree/main/1436-destination-city/) | Easy |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/ShengShuYan/Exercise/tree/main/0706-design-hashmap/) | Easy |
+| [1146-snapshot-array](https://github.com/ShengShuYan/Exercise/tree/main/1146-snapshot-array/) | Medium |
 | [1622-fancy-sequence](https://github.com/ShengShuYan/Exercise/tree/main/1622-fancy-sequence/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/ShengShuYan/Exercise/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShengShuYan/Exercise/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShengShuYan/Exercise/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1146-snapshot-array](https://github.com/ShengShuYan/Exercise/tree/main/1146-snapshot-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShengShuYan/Exercise/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShengShuYan/Exercise/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/ShengShuYan/Exercise/tree/main/2540-minimum-common-value/) | Easy |
@@ -485,4 +489,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShengShuYan/Exercise/tree/main/0169-majority-element/) | Easy |
+## Persistent Data Structure
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1146-snapshot-array](https://github.com/ShengShuYan/Exercise/tree/main/1146-snapshot-array/) | Medium |
 <!---LeetCode Topics End-->
