@@ -6,8 +6,7 @@ class Solution:
         for num in nums:
             if v == 0:
                 c = num
-                v += 1
-            elif num == c:
+            if num == c:
                 v += 1
             else:
                 v -= 1
