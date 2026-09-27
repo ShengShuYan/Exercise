@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ShengShuYan/Exercise/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ShengShuYan/Exercise/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ShengShuYan/Exercise/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/ShengShuYan/Exercise/tree/main/0054-spiral-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShengShuYan/Exercise/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShengShuYan/Exercise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShengShuYan/Exercise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ShengShuYan/Exercise/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/ShengShuYan/Exercise/tree/main/0054-spiral-matrix/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/ShengShuYan/Exercise/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShengShuYan/Exercise/tree/main/0994-rotting-oranges/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShengShuYan/Exercise/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ShengShuYan/Exercise/tree/main/0054-spiral-matrix/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShengShuYan/Exercise/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShengShuYan/Exercise/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ShengShuYan/Exercise/tree/main/1929-concatenation-of-array/) | Easy |
