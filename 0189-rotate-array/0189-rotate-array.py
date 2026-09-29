@@ -1,9 +1,8 @@
 class Solution:
     def rotate(self, nums: list[int], k: int) -> None:
-        nums1 = nums[:]
         l = len(nums)
         m = k % l
-        for i in range(l):
-            n = (i + m) % l
-            nums[n] = nums1[i]
+        L = nums[l-m:]
+        del nums[l-m:]
+        nums[0:0] = L
         return nums
