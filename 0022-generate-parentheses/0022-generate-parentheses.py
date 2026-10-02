@@ -4,6 +4,7 @@ class Solution:
         def dfs(path, left, right):
             if len(path) == 2 * n:
                 ans.append(''.join(path))
+                return
             if left < n:
                 path.append('(')
                 dfs(path, left+1, right)
