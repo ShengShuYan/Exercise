@@ -9,7 +9,7 @@ class Solution:
                     cur.append([x[0]+'(', x[1]+1, x[2]-1])
                 if x[1] >= 1:
                     cur.append([x[0]+')', x[1]-1, x[2]])
-            ans = cur[:]
+            ans = cur
         return [x[0] for x in ans]
 
                     
