@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ShengShuYan/Exercise/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShengShuYan/Exercise/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/ShengShuYan/Exercise/tree/main/0049-group-anagrams/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/ShengShuYan/Exercise/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [0796-rotate-string](https://github.com/ShengShuYan/Exercise/tree/main/0796-rotate-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShengShuYan/Exercise/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShengShuYan/Exercise/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShengShuYan/Exercise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/ShengShuYan/Exercise/tree/main/0189-rotate-array/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/ShengShuYan/Exercise/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ShengShuYan/Exercise/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShengShuYan/Exercise/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/ShengShuYan/Exercise/tree/main/1861-rotating-the-box/) | Medium |
