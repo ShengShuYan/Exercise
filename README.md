@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShengShuYan/Exercise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ShengShuYan/Exercise/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShengShuYan/Exercise/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0045-jump-game-ii](https://github.com/ShengShuYan/Exercise/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/ShengShuYan/Exercise/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ShengShuYan/Exercise/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/ShengShuYan/Exercise/tree/main/0054-spiral-matrix/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/ShengShuYan/Exercise/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/ShengShuYan/Exercise/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShengShuYan/Exercise/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/ShengShuYan/Exercise/tree/main/0605-can-place-flowers/) | Easy |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ShengShuYan/Exercise/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ShengShuYan/Exercise/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0045-jump-game-ii](https://github.com/ShengShuYan/Exercise/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/ShengShuYan/Exercise/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShengShuYan/Exercise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShengShuYan/Exercise/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
