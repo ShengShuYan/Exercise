@@ -1,15 +1,18 @@
 class Solution:
     def jump(self, nums: list[int]) -> int:
-        tar = len(nums)
-        dq = [float('inf')] * tar
-        dq[tar-1] = 0
-        i = tar - 2
-        while i >= 0:
-            v = nums[i]
-            if i + v >= tar:
-                dq[i] = 1
-            else:
-                dq[i] = min(dq[i:i+v+1])+1
-            i -= 1
-        return dq[0]
-        
+        l = len(nums)
+        if l <= 1:
+            return 0
+        jumps = 0
+        cur_end = 0
+        far = 0
+
+        for i in range(l-1):
+            far = max(far, i + nums[i])
+            if i == cur_end:
+                jumps += 1
+                cur_end = far
+
+                if cur_end >= l-1:
+                    return jumps
+        return jumps
