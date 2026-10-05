@@ -509,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/ShengShuYan/Exercise/tree/main/0595-big-countries/) | Easy |
 | [0608-tree-node](https://github.com/ShengShuYan/Exercise/tree/main/0608-tree-node/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ShengShuYan/Exercise/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1148-article-views-i](https://github.com/ShengShuYan/Exercise/tree/main/1148-article-views-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/ShengShuYan/Exercise/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/ShengShuYan/Exercise/tree/main/1280-students-and-examinations/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ShengShuYan/Exercise/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
