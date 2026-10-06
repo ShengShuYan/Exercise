@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ShengShuYan/Exercise/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ShengShuYan/Exercise/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ShengShuYan/Exercise/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0274-h-index](https://github.com/ShengShuYan/Exercise/tree/main/0274-h-index/) | Medium |
 | [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShengShuYan/Exercise/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ShengShuYan/Exercise/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/ShengShuYan/Exercise/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShengShuYan/Exercise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ShengShuYan/Exercise/tree/main/0169-majority-element/) | Easy |
+| [0274-h-index](https://github.com/ShengShuYan/Exercise/tree/main/0274-h-index/) | Medium |
 | [0645-set-mismatch](https://github.com/ShengShuYan/Exercise/tree/main/0645-set-mismatch/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/ShengShuYan/Exercise/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1340-jump-game-v](https://github.com/ShengShuYan/Exercise/tree/main/1340-jump-game-v/) | Hard |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0274-h-index](https://github.com/ShengShuYan/Exercise/tree/main/0274-h-index/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShengShuYan/Exercise/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
