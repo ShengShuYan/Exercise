@@ -520,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1148-article-views-i](https://github.com/ShengShuYan/Exercise/tree/main/1148-article-views-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/ShengShuYan/Exercise/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/ShengShuYan/Exercise/tree/main/1280-students-and-examinations/) | Easy |
+| [1683-invalid-tweets](https://github.com/ShengShuYan/Exercise/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ShengShuYan/Exercise/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ShengShuYan/Exercise/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Sliding Window
