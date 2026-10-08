@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/ShengShuYan/Exercise/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ShengShuYan/Exercise/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShengShuYan/Exercise/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/ShengShuYan/Exercise/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShengShuYan/Exercise/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/ShengShuYan/Exercise/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShengShuYan/Exercise/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/ShengShuYan/Exercise/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ShengShuYan/Exercise/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShengShuYan/Exercise/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/ShengShuYan/Exercise/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/ShengShuYan/Exercise/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShengShuYan/Exercise/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShengShuYan/Exercise/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -573,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/ShengShuYan/Exercise/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ShengShuYan/Exercise/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShengShuYan/Exercise/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/ShengShuYan/Exercise/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShengShuYan/Exercise/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShengShuYan/Exercise/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
