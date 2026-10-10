@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ShengShuYan/Exercise/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ShengShuYan/Exercise/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/ShengShuYan/Exercise/tree/main/0274-h-index/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/ShengShuYan/Exercise/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShengShuYan/Exercise/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShengShuYan/Exercise/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ShengShuYan/Exercise/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShengShuYan/Exercise/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/ShengShuYan/Exercise/tree/main/0134-gas-station/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/ShengShuYan/Exercise/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/ShengShuYan/Exercise/tree/main/0605-can-place-flowers/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ShengShuYan/Exercise/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShengShuYan/Exercise/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -597,4 +599,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShengShuYan/Exercise/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ShengShuYan/Exercise/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
