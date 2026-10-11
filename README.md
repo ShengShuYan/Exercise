@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/ShengShuYan/Exercise/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShengShuYan/Exercise/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShengShuYan/Exercise/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ShengShuYan/Exercise/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ShengShuYan/Exercise/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShengShuYan/Exercise/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ShengShuYan/Exercise/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ShengShuYan/Exercise/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShengShuYan/Exercise/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
