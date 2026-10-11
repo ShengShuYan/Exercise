@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ShengShuYan/Exercise/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ShengShuYan/Exercise/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/ShengShuYan/Exercise/tree/main/0274-h-index/) | Medium |
+| [0283-move-zeroes](https://github.com/ShengShuYan/Exercise/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/ShengShuYan/Exercise/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShengShuYan/Exercise/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0399-evaluate-division](https://github.com/ShengShuYan/Exercise/tree/main/0399-evaluate-division/) | Medium |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/ShengShuYan/Exercise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ShengShuYan/Exercise/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/ShengShuYan/Exercise/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/ShengShuYan/Exercise/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShengShuYan/Exercise/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ShengShuYan/Exercise/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShengShuYan/Exercise/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
